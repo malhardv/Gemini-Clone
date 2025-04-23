@@ -22,3 +22,8 @@ A frontend clone of Google's Gemini AI chatbot using **React.js** and the **Goog
 git clone https://github.com/malhardv/Gemini-Clone
 cd Gemini-Clone
 npm install
+```
+
+# 📸 Screenshots
+
+![](./screenshots/gemino.png)
